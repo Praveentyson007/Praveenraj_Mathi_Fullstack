@@ -25,8 +25,8 @@ export const Introduction = () => {
                 from{" "}
                 <span className="different"> Vellore, Tamil nadu (India)</span>.
                 I have completed my graduation in 2022 (June. BBA) <br /> Having
-                <span className="different">3 years of experience</span> in Java
-                Development Activities. <br />
+                <span className="different"> 3 years of experience</span> in
+                Java Development Activities. <br />
                 Last one year, I worked in microserservice architecture, with
                 cloud AWS. I worked in{" "}
                 <span className="different">Agile methodology</span> to enhance
