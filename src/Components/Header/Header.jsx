@@ -15,7 +15,7 @@ export const Header = () => {
             {/* <span>
               <img src={Image} alt="logo" />
             </span> */}
-            Praveenraj Mathi
+            Praveenraj
           </a>
         </h3>
         <Navbar />

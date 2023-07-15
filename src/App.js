@@ -1,13 +1,12 @@
-import React from "react";
-import { Header } from "./Components/Header/Header";
-import "./App.css";
-import { ThemeContext } from "./Context/theme";
-import { About } from "./Components/About/About";
 import Aos from "aos";
 import "aos/dist/aos.css";
+import React from "react";
+import "./App.css";
+import { About } from "./Components/About/About";
+import { Header } from "./Components/Header/Header";
+import { ThemeContext } from "./Context/theme";
 // import { Techstacks } from "./Components/About/Techstacks";
 import { Github } from "./Components/About/Github";
-import { Projects } from "./Components/Projects/Projects";
 import { Contact } from "./Components/Contact/Contact";
 import { Footer } from "./Components/Footer/Footer";
 import { ScrollToTop } from "./Components/ScrollToTop/ScrollToTop";
