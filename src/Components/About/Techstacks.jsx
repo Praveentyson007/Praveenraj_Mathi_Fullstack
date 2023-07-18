@@ -24,16 +24,20 @@ export const Techstacks = () => {
         <h2 className="section__title different">Skills</h2>
         <div className="techsection">
           <div>
-            <SiJavascript />
-            <h5>Javascript</h5>
-          </div>
-          <div>
             <SiHtml5 />
             <h5>HTML</h5>
           </div>
           <div>
             <DiCss3 />
             <h5>CSS</h5>
+          </div>
+          <div>
+            <BsBootstrap />
+            <h5>Bootstrap</h5>
+          </div>
+          <div>
+            <SiJavascript />
+            <h5>Javascript</h5>
           </div>
           <div>
             <FaReact />
@@ -57,10 +61,7 @@ export const Techstacks = () => {
             <FaAws />
             <h5>AWS</h5>
           </div>
-          <div>
-            <BsBootstrap />
-            <h5>Bootstrap</h5>
-          </div>
+
           <div>
             <SiMysql />
             <h5>MY-SQL</h5>
